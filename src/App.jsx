@@ -2761,7 +2761,7 @@ export default function TVDECalc() {
               backgroundClip: 'text',
             }}
           >
-            Income Calculator
+            Income Calculator By Khalid Hasan
           </h1>
 
           <p
